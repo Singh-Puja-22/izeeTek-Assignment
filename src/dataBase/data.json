@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstName": "Pankaj",
+      "lastName": "Singh",
+      "userName": "p.singh@abc.com",
+      "password": "abcd",
+      "confirmPassword": "abcd",
+      "id": 1
+    },
+    {
+      "firstName": "Shivam",
+      "lastName": "k",
+      "userName": "sksksk",
+      "password": "aaaa",
+      "confirmPassword": "aaaa",
+      "id": 2
+    },
+    {
+      "firstName": "Puja",
+      "lastName": "SIngh",
+      "userName": "p.singh@abc.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 3
+    },
+    {
+      "firstName": "Rohit ",
+      "lastName": "Singh",
+      "userName": "r.singh@abc.com",
+      "password": "r12345",
+      "confirmPassword": "r12345",
+      "id": 7
+    },
+    {
+      "firstName": "Sandeep",
+      "lastName": "Srivastava",
+      "userName": "sandy@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 8
+    },
+    {
+      "firstName": "Ganesh",
+      "lastName": "Singh",
+      "userName": "g.singh@gmail.com",
+      "password": "qwert",
+      "confirmPassword": "qwert",
+      "id": 9
+    }
+  ]
+}
